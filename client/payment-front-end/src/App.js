@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { Row } from "antd";
 import { Col } from "antd";
-import { Form, Button, Input, message, Select, Modal } from "antd";
+import { Form, Button, Input, message, Select } from "antd";
 import axios from "axios";
 
 const { TextArea } = Input;

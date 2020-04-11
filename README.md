@@ -2,7 +2,13 @@
 
 A microservice to accept and process payments.
  
-Tech stack: Node, Express Js, Front-end dummy App React Js, [Razorpay](https://github.com/razorpay/razorpay-node) as payment gateway
+Tech stack: Node, Express Js, Front-end dummy App React Js,MongoDB, [Razorpay](https://github.com/razorpay/razorpay-node) as payment gateway
+
+## Features
+Accept payments using front-end payment modal (Popup)
+Accept payment via unique payment link
+Refund particular payment
+
 
 ## Requirements
 
